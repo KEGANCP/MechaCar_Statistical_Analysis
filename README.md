@@ -66,7 +66,7 @@ Data from Lot 3 confirms they are statistically different from the mean. The pva
 
 ----
 ### Study Design: MechaCar vs Competition
-If we put ourselves in the position of a potential consumer, there are several other metrics that should be considered. For example; cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. Let's review the below to further are research.
+If we put ourselves in the position of a potential consumer, there are several other metrics that should be considered. For example; cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. Let's review the below to further our research.
 
 #### Metrics to Test:
 City & Highway MPG between secifc models of vehicles (sport, eco, GT, etc). These should be considered as the differential between such could be significant based on engine size, car weight, etc.
