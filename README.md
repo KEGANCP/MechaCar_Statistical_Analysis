@@ -63,3 +63,20 @@ Data from Lot 2 confirms they are not statistically different from the mean.
   <img src="https://github.com/KEGANCP/MechaCar_Statistical_Analysis/blob/main/Images/Lot3.png" alt="Lot3"/>
 </p>
 Data from Lot 3 confirms they are statistically different from the mean. The pvalue is low enough to reject the null hpothesis with p-value of .04168.
+
+----
+### Study Design: MechaCar vs Competition
+If we put ourselves in the position of a potential consumer, there are several other metrics that should be considered. For example; cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. Let's review the below to further are research.
+
+#### Metrics to Test:
+City & Highway MPG between secifc models of vehicles (sport, eco, GT, etc). These should be considered as the differential between such could be significant based on engine size, car weight, etc.
+#### Null Hypothesis and Alternative Hypothesis:
+Null Hypothisis
+- There is no statistical difference between MechaCar's MPG and the competition when comparing specifc vehicle trims.
+
+Alternative Hypothesis
+- There is statistical difference between MechaCar's MPG and the competition when comparing specifc vehicle trims.
+#### Statistical Test to Answer Hypothesis:
+- Using the sample, t-test's could be utilized to measure the potential differences.
+#### Data required to Run Test:
+- Data would be required from competitors that will include and breakdown car models/trim with MPG secific to both highway and city.
