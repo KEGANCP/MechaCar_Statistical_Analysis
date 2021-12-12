@@ -2,7 +2,7 @@
 ----
 ### Project overview
 
-AutosRus has enlisted my help to run an analysis specific to their "MechaCar" to better prepare avoid further production delays.
+AutosRus has enlisted my help to run an analysis specific to their "MechaCar" to better prepare & avoid further production delays.
 ---- 
 ### Linear Regression to Predict MPG
 
