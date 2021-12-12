@@ -1,6 +1,7 @@
 # MechaCar Statistical Analysis
 ----
 ### Project overview
+
 AutosRus has enlisted my help to run an analysis specific to their "MechaCar" to better prepare avoid further production delays.
 ---- 
 ### Linear Regression to Predict MPG
@@ -9,7 +10,10 @@ AutosRus has enlisted my help to run an analysis specific to their "MechaCar" to
   <img src="https://github.com/KEGANCP/MechaCar_Statistical_Analysis/blob/main/Images/Linear_Regression_Summary.png" alt="LRSummary"/>
 </p>
 
-
+With the above analysis we are able to conclude the below:
+- Both Vehicle Length and Ground Clearance provide a non-random variance to the MPG data
+- Due to the p-value being significantly less, we can conclude the slope of the linear model is NOT considered to be zero.
+- Given that the R-squared value is .7149, this confirms that there is indeed a greater than 70% chance that future data will fit this model. This verifies an effective prediction of MPG for MechaCar.
 
 
 ----
