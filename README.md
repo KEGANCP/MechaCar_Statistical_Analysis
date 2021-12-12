@@ -23,11 +23,16 @@ With the above analysis we are able to conclude the below:
   <img src="https://github.com/KEGANCP/MechaCar_Statistical_Analysis/blob/main/Images/Mean_Med_Var_SD.png" alt="total_Summary_mean_Med_Var_SD"/>
 </p>
 
+The above is a summary dataframe showing the mean, median, variance and standard deviation of all lots.
 
 <p align="center">
   <img src="https://github.com/KEGANCP/MechaCar_Statistical_Analysis/blob/main/Images/Lot_summary.png" alt="Lot_summary"/>
 </p>
 
+The dataframe above provides the same data, but shows the data specific to each lot.
+
+
+with this information we can conclude that the coills meet the specifications of 100 PSI. with a further look when this data is broken down by lot we can see that lot 3 exceeds the variance well above the expected specs.
 
 
 ----
